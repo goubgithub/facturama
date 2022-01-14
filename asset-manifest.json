@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/facturama/static/css/main.08b59345.chunk.css",
+    "main.js": "/facturama/static/js/main.c619da4a.chunk.js",
+    "main.js.map": "/facturama/static/js/main.c619da4a.chunk.js.map",
+    "runtime-main.js": "/facturama/static/js/runtime-main.234c74f5.js",
+    "runtime-main.js.map": "/facturama/static/js/runtime-main.234c74f5.js.map",
+    "static/css/2.ad8924ca.chunk.css": "/facturama/static/css/2.ad8924ca.chunk.css",
+    "static/js/2.c23e356d.chunk.js": "/facturama/static/js/2.c23e356d.chunk.js",
+    "static/js/2.c23e356d.chunk.js.map": "/facturama/static/js/2.c23e356d.chunk.js.map",
+    "index.html": "/facturama/index.html",
+    "precache-manifest.0f39a33ba09e107f71aecbb4e7df4062.js": "/facturama/precache-manifest.0f39a33ba09e107f71aecbb4e7df4062.js",
+    "service-worker.js": "/facturama/service-worker.js",
+    "static/css/2.ad8924ca.chunk.css.map": "/facturama/static/css/2.ad8924ca.chunk.css.map",
+    "static/css/main.08b59345.chunk.css.map": "/facturama/static/css/main.08b59345.chunk.css.map",
+    "static/js/2.c23e356d.chunk.js.LICENSE.txt": "/facturama/static/js/2.c23e356d.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/facturama/static/media/resize.d4da359f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.234c74f5.js",
+    "static/css/2.ad8924ca.chunk.css",
+    "static/js/2.c23e356d.chunk.js",
+    "static/css/main.08b59345.chunk.css",
+    "static/js/main.c619da4a.chunk.js"
+  ]
+}
