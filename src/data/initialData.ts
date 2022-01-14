@@ -1,0 +1,45 @@
+import { ProductLine, Invoice } from './types'
+
+export const initialProductLine: ProductLine = {
+  description: '',
+  quantity: '1',
+  rate: '0.00',
+}
+
+export const initialInvoice: Invoice = {
+  logo: '',
+  logoWidth: 100,
+  title: 'Factura',
+  companyName: '',
+  name: '',
+  cif: '',
+  companyAddress: '',
+  companyAddress2: '',
+  companyCountry: 'España',
+  billTo: 'Cliente:',
+  clientName: '',
+  clientAddress: '',
+  clientAddress2: '',
+  clientCountry: 'España',
+  invoiceTitleLabel: 'factura#',
+  invoiceTitle: '',
+  invoiceDateLabel: 'Facturación',
+  invoiceDate: '',
+  invoiceDueDateLabel: 'Vencimiento',
+  invoiceDueDate: '',
+  productLineDescription: 'Factura',
+  productLineQuantity: 'Cantidad',
+  productLineQuantityRate: 'Precio',
+  productLineQuantityAmount: 'Importe',
+  productLines: [
+    { ...initialProductLine },
+  ],
+  subTotalLabel: 'Sub Total',
+  taxLabel: 'IVA (21%)',
+  totalLabel: 'TOTAL',
+  currency: '€',
+  notesLabel: 'Notas',
+  notes: '',
+  termLabel: 'Términos y condiciones',
+  term: '',
+}
