@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f002148678ee5159680260466dcf5ee7",
+    "revision": "849f106d162e84fc4177b7b828df5940",
     "url": "/facturama/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/facturama/static/css/2.ad8924ca.chunk.css"
   },
   {
-    "revision": "25a983cdfdc310951a3a",
-    "url": "/facturama/static/css/main.08b59345.chunk.css"
+    "revision": "5db491a47183aa67b6da",
+    "url": "/facturama/static/css/main.5c6de7ef.chunk.css"
   },
   {
     "revision": "70e3c9d12f52908e6fda",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/facturama/static/js/2.c23e356d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25a983cdfdc310951a3a",
-    "url": "/facturama/static/js/main.c619da4a.chunk.js"
+    "revision": "5db491a47183aa67b6da",
+    "url": "/facturama/static/js/main.e9c52d38.chunk.js"
   },
   {
     "revision": "92cc5a7abed7e13a897c",
